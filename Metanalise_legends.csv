@@ -1,0 +1,9 @@
+Study,Measure,Ecossistem,Zone,Climate,Trophy,Approach,Control,Treatment,Effect size
+numeração de cada estudo,Cons = biomass consumption,E = estuarine,Cz = coastal zone,Temperate,Oligotrophic,LE = lab experiment,valores de média pela via clássica,valores de média pela alça microbiana,log10 (treatment/control) -> calculado para cada linha
+,CF = carbon flux,F = freshwater,Pz = pelagic zone,Tropical,Eutrophic,M = model,,,
+,,M = marine,Oz = offshore zone,,Mesotrophic,FW = field work,,,
+,,,Lz = limnetic zone,,Oligo-Mesotrophic,FE = field experiment,,,
+,,,Cn = canal zone,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+*NA = data not available (válido para qualquer coluna),,,,,,,,,
